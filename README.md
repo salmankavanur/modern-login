@@ -14,3 +14,5 @@
 - Handling clicks on social media buttons
 - Form submission for email and password
 - Interaction with ‘Forgot Your Password?’ and ‘Sign Up’ elements
+
+![image](https://github.com/salmankavanur/modern-login/assets/26223477/126c345e-9876-4f2e-b55e-49dbf0a13f44)
