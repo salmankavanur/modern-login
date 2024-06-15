@@ -1,9 +1,9 @@
 #HTML Structure:
-Social media sign-in buttons (Google, Facebook, Twitter)
-Email and password input fields
-‘Sign In’ button and ‘Forgot Your Password?’ link
-‘Hello, Friend!’ welcoming message
-‘Sign Up’ button and registration invitation
+- Social media sign-in buttons (Google, Facebook, Twitter)
+- Email and password input fields
+- ‘Sign In’ button and ‘Forgot Your Password?’ link
+- ‘Hello, Friend!’ welcoming message
+- ‘Sign Up’ button and registration invitation
 
 #CSS Styling:
 Modern look with rounded corners
